@@ -1,0 +1,4 @@
+out/
+*.class
+crm-data.dat
+/.idea
