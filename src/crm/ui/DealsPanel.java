@@ -108,7 +108,7 @@ public final class DealsPanel extends JPanel implements CrmPanel {
 
     private JLabel hint() {
         return new JLabel(
-                "Двойной клик по строке — редактирование. Сумма указывается в BYN.");
+                "Двойной клик по строке - редактирование. Сумма указывается в BYN.");
     }
 
     @Override

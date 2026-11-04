@@ -89,6 +89,6 @@ public final class Client implements Serializable {
         if (company == null || company.isBlank()) {
             return name;
         }
-        return name + " — " + company;
+        return name + " : " + company;
     }
 }

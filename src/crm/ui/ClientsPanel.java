@@ -83,7 +83,7 @@ public final class ClientsPanel extends JPanel implements CrmPanel {
 
     private JLabel hint() {
         return new JLabel(
-                "Двойной клик по строке — редактирование. Изменения сохраняются автоматически.");
+                "Двойной клик по строке – редактирование. Изменения сохраняются автоматически.");
     }
 
     @Override

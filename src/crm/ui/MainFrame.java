@@ -26,7 +26,7 @@ public final class MainFrame extends JFrame {
     private String query = "";
 
     public MainFrame(CrmStorage storage) {
-        super("CRM Lite — клиенты и сделки");
+        super("CRM Lite - клиенты и сделки");
         this.storage = storage;
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
